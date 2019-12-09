@@ -14,6 +14,9 @@
  * limitations under the License.
  *
  */
+#import <Foundation/Foundation.h>
+#import <React/RCTBridgeModule.h>
+#import <React/RCTEventEmitter.h>
 
 #ifndef RNAppleAuthUtils_h
 #define RNAppleAuthUtils_h
